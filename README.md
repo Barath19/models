@@ -6,6 +6,9 @@ This code is part of AI hackathon conducted at Bosch India
 
 ![](demo.gif)
 
+#Trained Model
+Yet to be uploaded
+
 ## License
 
 [Apache License 2.0](LICENSE)
