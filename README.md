@@ -4,6 +4,12 @@ Vehicle counting and classification for estimating the vehicle density and dynam
 
 This code is part of AI hackathon conducted at Bosch India
 
+## Model Architecture
+
+Intially developed with Faster R-CNN, now runs on an ensemble voting classifier based on Yolo-V3 and Faster R-CNN pretrained model
+
+
+
 ![](demo.gif)
 
 ## Trained Model
