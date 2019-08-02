@@ -4,6 +4,8 @@ Vehicle counting and classification for estimating the vehicle density and dynam
 
 This code is part of AI hackathon conducted at Bosch India
 
+![](demo.gif)
+
 ## License
 
 [Apache License 2.0](LICENSE)
